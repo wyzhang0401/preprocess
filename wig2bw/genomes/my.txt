@@ -1,0 +1,2 @@
+基因组数据下载：
+http://hgdownload.soe.ucsc.edu/downloads.html
